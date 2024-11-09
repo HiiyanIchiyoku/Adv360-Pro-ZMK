@@ -1,40 +1,6 @@
 [
 	{
 		"names": [
-			"AL"
-		],
-		"description": "AL",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"ALTF4"
-		],
-		"description": "ALTF4",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
 			"CUNDERSCORE"
 		],
 		"description": "CUNDERSCORE",
